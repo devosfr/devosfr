@@ -3,8 +3,6 @@
 - 🔭 Possuo nível Técnico em TI e estou cursando a faculdade de Análise de Sistemas, possuo experiência com Metodologia Ágil, C#, Javascript (Vuejs, Nuxtjs, Nodejs, Angularjs, Bower, Grunt, Gulp), PrimeVue, Tailwindcss, SQLServer, Git, Amazon Aws Services, Azure DevOps.
 - 🌱 No momento estou estudando e trabalhando em um projeto baseado em Nextjs/React
 
-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
