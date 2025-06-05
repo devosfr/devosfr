@@ -1,6 +1,6 @@
 ## Olá 👋! Me chamo Oséias Freitas
 
-- 🔭 Possuo nível Técnico em TI e estou cursando a faculdade de Análise de Sistemas, possuo experiência com Metodologia Ágil, C#, Javascript (Vuejs, Nuxtjs, Nodejs, Angularjs, Bower, Grunt, Gulp), PrimeVue, Tailwindcss, SQLServer, Git, Amazon Aws Services, Azure DevOps.
+- 🔭 Possuo nível Técnico em TI e estou cursando a faculdade de Análise de Sistemas, possuo experiência com Metodologia Ágil, C#, Javascript (Vuejs, Nuxtjs, Nodejs, Angularjs, Bower, Grunt, Gulp), PrimeVue, Tailwindcss, Flutter, SQLServer, Git, Amazon Aws Services, Azure DevOps.
 - 🌱 No momento estou estudando e trabalhando em um projeto baseado em Nextjs/React
 
 
